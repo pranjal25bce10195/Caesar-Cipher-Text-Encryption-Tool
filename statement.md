@@ -19,7 +19,11 @@ This project allows users to ->
 
 ## High-Level Features:
 - Text Encryption           => Converts plain text into cipher text using shift values.
+  
 -Text Decryption            => Restores encoded text back to original form.
+
 -Input Validation           => Ensures correct user input and prevents errors.
+
 -Special Character Handling => Preserves non-alphabet characters unchanged.
+
 -User friendly              => Simple, interactive and easy to use.
